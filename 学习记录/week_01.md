@@ -22,11 +22,13 @@
 - 数据结构
 - 函数、类、模块
 - python中所有事物
-## 3、注释 [更多内容](https://www.cnblogs.com/xuzhichao/p/11430272.html)
+## 3、注释 
+[更多内容](https://www.cnblogs.com/xuzhichao/p/11430272.html)
 - 单行注释：# 被注释内容
 - 多行注释：""" 被注释内容 """
 - 除此之外，""" 被注释内容 """ 还可以打印变量
-## 4、函数和方法调用 [更多内容](https://www.cnblogs.com/xuzhichao/p/11570285.html)
+## 4、函数和方法调用 
+[更多内容](https://www.cnblogs.com/xuzhichao/p/11570285.html)
 - 参数机制！ 关键字参数、位置参数、实参、形参，全局变量、局部变量、函数引用、递归
 ## 5、变量和参数传递
 - 两个引用指向同一个对象
